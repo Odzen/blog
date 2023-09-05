@@ -1,7 +1,7 @@
 ---
 title: First post
 description: First post.
-date: '2023-15-12'
+date: '2023-12-05'
 categories:
   - sveltekit
   - svelte
