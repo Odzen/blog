@@ -10,3 +10,5 @@ npm run dev
 ```
 
 ### Production link
+
+https://odzen-personal-blog.vercel.app/
