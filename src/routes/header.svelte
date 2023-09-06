@@ -1,5 +1,6 @@
 <script lang="ts">
 	import * as config from '$lib/config';
+	import Toogle from './toogle.svelte';
 </script>
 
 <nav>
@@ -17,7 +18,7 @@
 		</li> -->
 	</ul>
 
-	<buton>Toggle</buton>
+	<Toogle />
 </nav>
 
 <style>
