@@ -50,6 +50,8 @@ Notese que las pruebas son una etapa entera del ciclo, lo cual demuestra su impo
 
 Si quieres una descripción un poco más gráfica de esta metodología, puedes revisar el siguiente vídeo:
 
+https://github.com/Odzen/blog/assets/49286935/5a76e72a-db7d-43e5-b084-bbbfb861e1a2
+
 <video width="630" height="600" src="https://github.com/Odzen/blog/assets/49286935/5a76e72a-db7d-43e5-b084-bbbfb861e1a2"></video>
 
 ## Bibliografía
@@ -60,9 +62,3 @@ Si quieres una descripción un poco más gráfica de esta metodología, puedes r
 - [Historia de las pruebas de software](<https://medium.com/la-region-vulnerable/historia-de-las-pruebas-de-software-fbd3c2716ce2#:~:text=En%201957%2C%20Charles%20Baker%20expone,funcionalidad%20del%20programa%20(debugging).>)
 - [¿Qué es una prueba de software?](https://www.ibm.com/mx-es/topics/software-testing)
 - [¿Que es SDLC?](https://aws.amazon.com/es/what-is/sdlc/#:~:text=El%20ciclo%20de%20vida%20del,crear%20software%20de%20alta%20calidad.)
-
-<!-- ```ts
-function greet(name: string): string {
-	return `Hello ${name}!`;
-}
-``` -->
