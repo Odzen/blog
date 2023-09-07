@@ -1,6 +1,6 @@
 ---
 title: Una breve historia de las pruebas de sistemas de software
-description: First post.
+description: En este artículo intentaré resumir un poco la historia de las pruebas de software, desde sus inicios hasta la actualidad, pasando por las diferentes etapas que han marcado su evolución. Con el objetivo de que tengamos un poco más de contexto para poder juzgar la importancia de las pruebas en el desarrollo de software, para la próxima vez que nos encontremos en una discusión sobre su implementación.
 date: '2023-09-06'
 categories:
   - testing
@@ -50,8 +50,7 @@ Notese que las pruebas son una etapa entera del ciclo, lo cual demuestra su impo
 
 Si quieres una descripción un poco más gráfica de esta metodología, puedes revisar el siguiente vídeo:
 
-https://github.com/Odzen/blog/assets/49286935/5a76e72a-db7d-43e5-b084-bbbfb861e1a2
-
+<video width="630" height="600" src="https://github.com/Odzen/blog/assets/49286935/5a76e72a-db7d-43e5-b084-bbbfb861e1a2"></video>
 
 ## Bibliografía
 
