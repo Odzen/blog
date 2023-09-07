@@ -48,7 +48,10 @@ El SDLC es un proceso que se divide en diferentes etapas, las cuales se pueden r
 
 Notese que las pruebas son una etapa entera del ciclo, lo cual demuestra su importancia. En esta etapa el equipo de desarrollo combina pruebas automáticas y manuales para asegurar que el software cumple con los requerimientos y expectativas del cliente. Usualmente los equipos prueban inmediatamente el código luego de su implementación, entonces la fase de pruebas se ejecuta en paralelo a la fase de desarrollo.
 
-Si quieres una descripción un poco más gráfica de esta metodología, puedes revisar el siguiente vídeo.
+Si quieres una descripción un poco más gráfica de esta metodología, puedes revisar el siguiente vídeo:
+
+https://github.com/Odzen/blog/assets/49286935/5a76e72a-db7d-43e5-b084-bbbfb861e1a2
+
 
 ## Bibliografía
 
